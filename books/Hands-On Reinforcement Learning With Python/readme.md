@@ -4,6 +4,10 @@
 https://github.com/sudharsan13296/Hands-On-Reinforcement-Learning-With-Python
 ```
 ```
+中譯本
+Python强化学习实战：应用OpenAI Gym和TensorFlow精通强化学习和深度强化学习
+```
+```
 Master reinforcement and deep reinforcement learning using OpenAI Gym and TensorFlow
 
 Reinforcement Learning with Python will help you to master basic reinforcement learning algorithms 
