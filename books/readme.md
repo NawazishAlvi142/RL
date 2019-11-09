@@ -3,6 +3,9 @@
 ```
 Reinforcement Learning Methods and Tutorials
 https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow
+
+Youtube channel
+https://www.youtube.com/watch?v=NVWBs7b3oGk&list=PLXO45tsB95cJYKCSATwh1M4n8cUnUv6lT
 ```
 ### Table of Contents
 #### Tutorials
