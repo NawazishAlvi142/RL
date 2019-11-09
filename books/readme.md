@@ -1,4 +1,4 @@
-#
+# TensorFlow
 
 ```
 用Python實作強化學習：使用TensorFlow與OpenAI Gym
@@ -26,10 +26,12 @@ https://www.apress.com/gp/book/9781484251263
 ```
 
 # PyTorch
-
-
 ```
+實戰人工智慧之深度強化學習：使用PyTorch ╳Python
+作者： 小川雄太郎  譯者： 許郁文
+碁峰出版社 出版日期：2019/07/19
 
+https://github.com/YutaroOgawa/Deep-Reinforcement-Learning-Book
 ```
 
 
