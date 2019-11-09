@@ -1,6 +1,11 @@
 # Reinforcement Learning
 ```
+https://www.apress.com/gp/book/9781484232842
 
+© 2018
+Reinforcement Learning
+With Open AI, TensorFlow and Keras Using Python
+Authors: Nandy, Abhishek, Biswas, Manisha
 ```
 
 ```
