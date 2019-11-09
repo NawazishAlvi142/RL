@@ -7,6 +7,38 @@ https://github.com/tensorflow/agents
 官方範例網址
 https://github.com/tensorflow/agents
 ```
+### YOUTUBE頻道
+```
+Reinforcement Learning in TensorFlow with TF-Agents (TF Dev Summit '19)
+https://www.youtube.com/watch?v=-TTziY7EmUA
+```
+```
+TensorFlow Tutorial #16 Reinforcement Learning[有點舊]
+https://www.youtube.com/watch?v=Vz5l886eptw
+
+Hvass-Labs/TensorFlow-Tutorials
+https://github.com/Hvass-Labs/TensorFlow-Tutorials
+
+Transfer Learning (Notebook) (Google Colab)
+Adversarial Examples (Notebook) (Google Colab)
+Adversarial Noise for MNIST (Notebook) (Google Colab)
+
+DeepDream (Notebook) (Google Colab)
+
+Style Transfer (Notebook) (Google Colab)
+
+Reinforcement Learning (Notebook) (Google Colab)
+
+Estimator API (Notebook) (Google Colab)
+...........
+TFRecords & Dataset API (Notebook) (Google Colab)
+Natural Language Processing (Notebook) (Google Colab)
+Machine Translation (Notebook) (Google Colab)
+Image Captioning (Notebook) (Google Colab)
+Time-Series Prediction (Notebook) (Google Colab)
+```
+
+
 ### 快速入門Tutorials
 ```
 https://github.com/tensorflow/agents/tree/master/tf_agents/colabs
@@ -36,4 +68,11 @@ TD3: Addressing Function Approximation Error in Actor-Critic Methods Fujimoto et
 REINFORCE: Simple Statistical Gradient-Following Algorithms for Connectionist Reinforcement Learning Williams, 1992
 PPO: Proximal Policy Optimization Algorithms Schulman et al., 2017
 SAC: Soft Actor Critic Haarnoja et al., 2018
+```
+# DRL-Tutorial
+```
+DRL-Tutorial
+Deep Reinforcement Learning Tutorial Site for PLDI 2019
+https://ai-vidya.github.io/DRL-Tutorial/
+
 ```
