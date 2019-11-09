@@ -24,8 +24,8 @@ https://arxiv.org/abs/1709.02878
 We introduce TensorFlow Agents, an efficient infrastructure paradigm for 
 building parallel reinforcement learning algorithms in TensorFlow. 
 
-We simulate multiple environments in parallel, and group them to perform the neural network computation 
-on a batch rather than individual observations. 
+We simulate multiple environments in parallel, and group them 
+to perform the neural network computation on a batch rather than individual observations. 
 
 This allows the TensorFlow execution engine to parallelize computation, 
 without the need for manual synchronization. 
@@ -37,7 +37,8 @@ As part of this project, we introduce BatchPPO,
 an efficient implementation of the proximal policy optimization algorithm. 
 
 By open sourcing TensorFlow Agents, 
-we hope to provide a flexible starting point for future projects that accelerates future research in the field.
+we hope to provide a flexible starting point for future projects 
+that accelerates future research in the field.
 ```
 ### YOUTUBE頻道
 ```
@@ -106,7 +107,8 @@ DQN: Human level control through deep reinforcement learning Mnih et al., 2015
 DDQN: Deep Reinforcement Learning with Double Q-learning Hasselt et al., 2015
 DDPG: Continuous control with deep reinforcement learning Lillicrap et al., 2015
 TD3: Addressing Function Approximation Error in Actor-Critic Methods Fujimoto et al., 2018
-REINFORCE: Simple Statistical Gradient-Following Algorithms for Connectionist Reinforcement Learning Williams, 1992
+REINFORCE: Simple Statistical Gradient-Following Algorithms 
+                             for Connectionist Reinforcement Learning Williams, 1992
 PPO: Proximal Policy Optimization Algorithms Schulman et al., 2017
 SAC: Soft Actor Critic Haarnoja et al., 2018
 ```
