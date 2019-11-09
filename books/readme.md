@@ -34,9 +34,17 @@ https://www.apress.com/gp/book/9781484251263
 https://github.com/YutaroOgawa/Deep-Reinforcement-Learning-Book
 ```
 
-
 ```
+Deep Reinforcement Learning Hands-On - Second Edition
+Maxim Lapan
 
+https://www.packtpub.com/data/deep-reinforcement-learning-hands-on-second-edition
+
+https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On
+
+動手做深度強化學習 Deep Reinforcement Learning Hands-On
+作者： Maxim Lapan   譯者： 劉立民
+博碩出版社  出版日期：2019/11/11
 ```
 
 
