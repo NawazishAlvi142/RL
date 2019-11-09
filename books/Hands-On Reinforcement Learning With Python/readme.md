@@ -6,6 +6,11 @@ https://github.com/sudharsan13296/Hands-On-Reinforcement-Learning-With-Python
 ```
 中譯本
 Python强化学习实战：应用OpenAI Gym和TensorFlow精通强化学习和深度强化学习
+
+用Python實作強化學習：使用TensorFlow與OpenAI Gym
+Hands-On Reinforcement Learning with Python
+作者： Sudharsan Ravichandiran  
+碁峰出版社： 出版日期：2019/05/29
 ```
 ```
 Master reinforcement and deep reinforcement learning using OpenAI Gym and TensorFlow
@@ -27,6 +32,60 @@ such as DQN, Double DQN. Dueling DQN, DRQN, A3C, DDPG, TRPO, and PPO.
 
 You will also learn about recent advancements in reinforcement learning 
 such as imagination augmented agents, learn from human preference, DQfD, HER and many more.
+```
+```
+第一章｜認識強化學習
+介紹何謂強化學習以及其運作原理。介紹強化學習的各種元素，如代理、環境、策略與模型，
+並帶領讀者認識用於強化學習的各種環境、平台與函式庫，以及強化學習的一些應用。
+
+第二章｜認識OpenAI與TensorFlow
+建置使用強化學習的電腦環境，包括Anaconda、Docker、OpenAI Gym、Universe與TensorFlow的安裝設定，
+並說明如何在OpenAI Gym中來模擬代理，以及如何建置一個會玩電玩遊戲的機器人程式。
+另外也會解說TensorFlow的基礎觀念以及如何使用TensorBoard來進行視覺化操作。
+
+第三章｜Markov決策過程與動態規劃
+從介紹何謂Markov鍊與Markov流程開始，說明如何使用Markov決策流程來對強化學習問題來建模。
+接著是一些重要的基本概念，例如價值函數、Q函數與Bellman方程式。
+然後介紹動態規劃以及如何運用價值迭代與策略迭代來解決凍湖問題。
+
+第四章｜使用Monte Carlo方法來玩遊戲
+介紹了Monte Carlo法與不同類型的 Monte Carlo預測法，如首次拜訪MC與每次拜訪MC，
+並說明如何使用Monte Carlo法來玩二十一點這項撲克牌遊戲。最後會介紹現時與離線這兩種不同的Monte Carlo控制方法。
+
+第五章｜時間差分學習
+介紹時間差分（TD）學習、TD預測與TD的即時/離線控制法，如Q學習與SARSA。
+並說明如何使用Q學習與SARSA來解決計程車載客問題。
+
+第六章｜多臂式吃角子老虎機問題
+要討論的是強化學習的經典問題：多臂式吃角子老虎機（MAB）問題，也稱為k臂式吃角子老虎機（MAB）問題。
+介紹如何使用各種探索策略來解決這個問題，例如epsilon-貪婪、softmax探索、UCB與湯普森取樣。
+本章後半也會介紹如何運用MAB來對使用者顯示正確的廣告橫幅。
+
+第七章｜深度學習的基礎概念
+介紹深度學習的重要觀念。首先，說明何謂神經網路，接著是不同類型的神經網路，如RNN、LSTM與CNN等。
+本章將實作如何自動產生歌詞與分類時尚產品。
+
+第八章｜使用深度Q網路來玩Atari遊戲
+介紹了一套最常用的深度強化學習演算法：深度Q網路（DQN）。接著介紹DQN的各個元件，
+並說明如何運用DQN來建置代理來玩Atari遊戲。最後介紹一些新型的DQN架構，如雙層DQN與競爭DQN。
+
+第九章｜使用深度循環Q網路來玩毀滅戰士
+介紹深度循環Q網路（DRQN），並說明它與DQN的差異。本章會運用DRQN來建置代理來玩毀滅戰士遊戲。
+同時介紹深度專注循環Q網路，它在DRQN架構中加入了專注機制。
+
+第十章｜非同步優勢動作評價網路
+介紹了非同步優勢動作評價網路（A3C）的運作原理。我們將帶領你深入了解A3C的架構並學會如何用它來建置會爬山的代理。
+
+第十一章｜策略梯度與最佳化
+說明策略梯度如何在不需要Q函數的前提下，幫助我們找到正確的策略。同時還會介紹深度確定性策略梯度法，
+以及最新的策略最佳化方法，如信賴域策略最佳化與近端策略最佳化。
+
+第十二章 使用DQN來玩賽車遊戲
+本章將帶領你運用競爭DQN來建置代理，讓它學會玩賽車遊戲。
+
+第十三章 近期發展與下一步
+介紹強化學習領域中的各種最新發展，例如想像增強代理、從人類偏好來學習、
+由示範來進行的深度Q學習以及事後經驗回放等等，然後談到了不同的強化學習方法，如層次強化學習與逆向強化學習。
 ```
 ### Table of Contents
 ```
