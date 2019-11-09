@@ -11,6 +11,8 @@ https://github.com/tensorflow/agents
 ```
 Applied Reinforcement Learning: Playing Doom with TF-Agents and PPO
 
+https://www.arconsis.com/unternehmen/blog/reinforcement-learning-doom-with-tf-agents-and-ppo
+https://github.com/arconsis/blog-playing-doom-with-tf-agents
 ```
 ```
 TensorFlow Agents: Efficient Batched Reinforcement Learning in TensorFlow
