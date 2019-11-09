@@ -1,11 +1,13 @@
 #
 
 ```
-Hands-On Reinforcement Learning With Python
+用Python實作強化學習：使用TensorFlow與OpenAI Gym
+Hands-On Reinforcement Learning with Python
+作者： Sudharsan Ravichandiran  
+碁峰出版社： 出版日期：2019/05/29
+
 官方程式碼
 https://github.com/sudharsan13296/Hands-On-Reinforcement-Learning-With-Python
-中譯本
-Python强化学习实战：应用OpenAI Gym和TensorFlow精通强化学习和深度强化学习
 ```
 
 ```
